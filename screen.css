@@ -2,3 +2,51 @@
 a.active {
     font-weight: bold;
 }
+
+.header{
+    background-color: #ff6600;
+    text-align: center;
+    width: 1300px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+.login{
+    float: right;
+}
+
+.text1{
+    background-color: beige;
+    width: 1300px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text2{
+    background-color: beige;
+    width: 1300px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
