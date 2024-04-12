@@ -26,7 +26,8 @@ a.active {
     font-family: "Oxygen";
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    text-indent: 2px;
 }
 
 .text2{
@@ -35,7 +36,9 @@ a.active {
     font-family: "Oxygen";
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    
+
 }
 
 .text3{
@@ -44,7 +47,8 @@ a.active {
     font-family: "Oxygen";
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    
 }
 
 .text4{
