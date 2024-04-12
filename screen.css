@@ -1,13 +1,15 @@
-/* Add screen styles below */
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
 a.active {
     font-weight: bold;
 }
 
 .header{
     background-color: #ff6600;
-    text-align: center;
+    
     width: 1300px;
-    text-align: center;
+    font-family: "Oxygen";
     display: block;
     margin-left: auto;
     margin-right: auto
@@ -19,18 +21,180 @@ a.active {
 }
 
 .text1{
-    background-color: beige;
+    background-color: #f6f6ef;
     width: 1300px;
-    text-align: center;
+    font-family: "Oxygen";
     display: block;
     margin-left: auto;
     margin-right: auto
 }
 
 .text2{
-    background-color: beige;
+    background-color: #f6f6ef;
     width: 1300px;
-    text-align: center;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text3{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text4{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text5{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text6{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text7{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text8{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text9{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text10{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text11{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text12{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text13{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text14{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text15{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text16{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text17{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text18{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text19{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.text20{
+    background-color: #f6f6ef;
+    width: 1300px;
+    font-family: "Oxygen";
     display: block;
     margin-left: auto;
     margin-right: auto
